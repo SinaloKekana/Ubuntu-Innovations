@@ -4,9 +4,13 @@ Design and implementation of an IT infrastructure and support solution for a fic
 
 This is our four-week capstone project for the **Google IT Support Professional Certificate** programme, delivered through **Capaciti (a division of UVU Africa)**.
 
+
+
 ## About the project
 
 Ubuntu Innovations (Pty) Ltd is relocating to a new office and needs a fully documented IT setup. We act as junior IT support specialists and deliver the analysis, design, security and support documentation for the whole environment.
+
+Documented by: Sinalo Kekana
 
 | Department | Employees |
 |---|---|
@@ -15,18 +19,10 @@ Ubuntu Innovations (Pty) Ltd is relocating to a new office and needs a fully doc
 | Human Resources | 3 |
 | Sales and Marketing | 7 |
 | Software Development | 8 |
-| **Total** | **25** |
+| **Total** | **25**  |
 
 **Main requirements:** secure wired and wireless connectivity, shared file storage and printers, employee accounts with department-based access control, endpoint security, backup and recovery, security policies, troubleshooting procedures, and documentation that future IT staff can use.
 
-## Team
-
-| Team member | Main responsibility (Week 1) | Secondary responsibility |
-|---|---|---|
-| Sinalo | Business Requirements Analysis | Final consistency check |
-| Luthando | Hardware Inventory and Software Inventory | Formatting / document quality |
-| Mbali | Network Diagram (Version 1) | Technical consistency |
-| Masibulele | Troubleshooting Log | Final completeness check |
 
 **Mentor:** [Mentor name]
 
